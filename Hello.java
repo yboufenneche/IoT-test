@@ -1,2 +1,5 @@
-This is the readme file of my project.
-Adding some content.
+public class Hello{
+ public static void main(String args[]){
+  System.out.println("Hello GitHub. Edited by:  " + args[0]);
+ }
+}
